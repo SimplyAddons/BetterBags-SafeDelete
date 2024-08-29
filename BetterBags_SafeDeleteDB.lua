@@ -17,4 +17,10 @@ addon.deleteItems = {
     225215, -- The Song of Renilash
     225217, -- 500 Dishes Using Cave Fish and Mushrooms
     228457, -- Lightspark Grade Book
+    219920, -- Hreka's Pot-Making Kit
+    228913, -- Dubious Vial of Vigor
+    223741, -- Bluesberry Blast
+    223742, -- Mangoro Madness
+    223743, -- Orange O-pocalypse
+    223744, -- Oyster Outbreak
 }
