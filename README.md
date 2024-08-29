@@ -6,4 +6,4 @@ The goal of this plugin is to categorize items that have no particular in-game u
 Supports multiple game locales, including English, French, Portuguese, and Spanish.
 
 ## Community Contributions
-I will be expanding the internal item database over time, as I continue to quest and complete content throughout The War Within. Please feel free to leave a comment here on [GitHub](https://github.com/SimplyAddons/BetterBags-SafeDelete/issues), or over on [Curseforge](https://www.curseforge.com/wow/addons/betterbags-gear-sets/comments) with the name's of any items you encounter and I'll be sure to include it.
+I will be expanding the internal item database over time, as I continue to quest and complete content throughout The War Within. Please feel free to leave a comment here on [GitHub](https://github.com/SimplyAddons/BetterBags-SafeDelete/issues), or over on [Curseforge](https://www.curseforge.com/wow/addons/betterbags-safe-delete/comments) with the name's of any items you encounter and I'll be sure to include it.
