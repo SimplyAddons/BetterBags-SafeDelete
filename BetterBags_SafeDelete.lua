@@ -57,17 +57,9 @@ local function translate(key, colorize)
    return translation or key
 end
 
--- Item database
------------------------------------------------------------
-local deleteItems = {
-	228369, -- Reconstructed Ledger
-   212605, -- The Vizier's Invitation
-}
------------------------------------------------------------
-
 -- Add all items in equipment sets to the "Safe Delete" category
 local function UpdateItems()
-   for _, item in pairs(deleteItems) do
+   for _, item in pairs(addon.deleteItems) do
       Categories:AddItemToCategory(item, translate("Delete", true))
    end
 end

@@ -7,4 +7,5 @@
 ## IconTexture: Interface\AddOns\BetterBags_SafeDelete\BetterBags.blp
 ## X-Curse-Project-ID: 1092744
 
+BetterBags_SafeDeleteDB.lua
 BetterBags_SafeDelete.lua
