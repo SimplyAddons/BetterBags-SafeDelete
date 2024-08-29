@@ -1,0 +1,10 @@
+package-as: BetterBags_SafeDelete
+
+ignore:
+  - .gitignore
+  - README.md
+  - LICENSE
+
+manual-changelog:
+  filename: CHANGELOG.md
+  markup-type: markdown

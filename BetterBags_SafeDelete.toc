@@ -1,0 +1,10 @@
+## Interface: 110002
+## Title: BetterBags - Safe Delete
+## Notes: Category for items that are safe to delete.
+## Author: SimplyAddons
+## Version: @project-version@
+## Dependencies: BetterBags
+## IconTexture: Interface\AddOns\BetterBags_SafeDelete\BetterBags.blp
+## X-Curse-Project-ID: 1092744
+
+BetterBags_SafeDelete.lua
