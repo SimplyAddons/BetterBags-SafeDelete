@@ -4,6 +4,7 @@ local _, addon = ...
 -- Item database
 -----------------------------------------------------------
 addon.deleteItems = {
+    ----- War Within ------------------
     228369, -- Reconstructed Ledger
     212605, -- The Vizier's Invitation
     225212, -- The Big Book of Arathi Idioms   
@@ -23,4 +24,11 @@ addon.deleteItems = {
     223742, -- Mangoro Madness
     223743, -- Orange O-pocalypse
     223744, -- Oyster Outbreak
+    ----- Darkmoon Faire ------------------
+    164973, -- Severed Azurefin Head
+    164972, -- Severed Crimsonscale Head
+    19299, -- Fizzy Faire Drink
+    21151, -- Rumsey Rum Black Label
+    ----- Dragonflight --------------------
+    204730, -- Grub Grub (randomly looted while questing in Azj-Kahet)
 }
