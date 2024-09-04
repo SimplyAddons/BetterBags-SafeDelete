@@ -24,11 +24,15 @@ addon.deleteItems = {
     223742, -- Mangoro Madness
     223743, -- Orange O-pocalypse
     223744, -- Oyster Outbreak
+    223901, -- Violet Silk Scrap (for opening treasure in Azj-Kahet)
+    223902, -- Crimson Silk Scrap (for opening treasure in Azj-Kahet)
+    223903, -- Gold Silk Scrap (for opening treasure in Azj-Kahet)
     ----- Darkmoon Faire ------------------
     164973, -- Severed Azurefin Head
     164972, -- Severed Crimsonscale Head
     19299, -- Fizzy Faire Drink
     21151, -- Rumsey Rum Black Label
     ----- Dragonflight --------------------
-    204730, -- Grub Grub (randomly looted while questing in Azj-Kahet)
+    204730, -- Grub Grub (looted while questing in Azj-Kahet)
+    204790, -- Strong Sniffin' Soup for Niffen (looted while questing in Azj-Kahet)
 }
